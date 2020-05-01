@@ -63,6 +63,12 @@ Net(
 
 ### Medium story related to the project can be found [here](https://medium.com/@anantagarwalcourses/how-to-develop-a-cnn-classifier-from-scratch-3d5aef9e24b2)
 
+## Model performance
+
+Final model metrics are:
+* Testing Loss Average: 1.051463 
+* Test Accuracy: 80% (670/836)
+
 
 
 
