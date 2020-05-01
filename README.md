@@ -22,7 +22,12 @@ Along with exploring state-of-the-art CNN models for classification  and localiz
 * Download the [dog dataset](https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/dogImages.zip)
 * Download the [human_dataset](https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/lfw.zip)
 
-
+## Dependencies
+* pytorch
+* numpy
+* matplotlib
+* cv2
+* pillow
 
 ## CNN Structures (Building a model on my own)
 
