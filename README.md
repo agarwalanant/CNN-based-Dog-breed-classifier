@@ -69,6 +69,15 @@ Final model metrics are:
 * Testing Loss Average: 1.051463 
 * Test Accuracy: 80% (670/836)
 
+## Reflection
+
+In the project we starts with opject detection using haarlike features with the implementation of openCV and ended up developing a CNN based model for classification. In between we touched transfer learning ( tunning pre trainded model for our purpose) and also developing a CNN model right from scratch.
+
+The most interestng part in the whole excercise was the need to transform the image to the specific shape for CNN. I always wonder AI is developing soo fast and our deep learning models are achieveing soo much but still all the things can shop working by just changing 1 pixel in model input.
+But pytorchs' transform functions always comes to rescue to maintain consistency in transformation.
+
+
+
 
 
 
